@@ -1,0 +1,87 @@
+
+
+.create-form .card {    
+    border: none
+}
+
+.create-form .form-control {
+    border: 2px solid #bdc1d2;
+    font-size: 13px;
+    height: 48px
+}
+
+.create-form .form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #f7bfd9;
+    outline: 0;
+    box-shadow: none
+}
+
+.create-form .form {
+    position: relative;
+    margin-bottom: 25px
+}
+
+.create-form .form a {
+    position: absolute;
+    right: 8px;
+    bottom: 10px;
+    color: #6ca0d6;
+    font-size: 13px;
+    text-decoration: none;
+    z-index: 10;
+    background-color: #fff;
+    padding: 5px
+}
+
+.create-form .continue {
+    height: 48px;
+    font-size: 13px;
+    background-color: #e91e63;
+    border: none
+}
+
+.create-form .line-text {
+    color: #cecece
+}
+
+.create-form .line {
+    background-color: #eeeff6;
+    width: 166px;
+    height: 2px
+}
+
+.create-form .member a {
+    color: #e91e63;
+    font-size: 14px
+}
+
+.create-form .member span {
+    font-size: 13px;
+    font-weight: 400;
+    color: #6ca0d6
+}
+
+.create-form .facebook-button {
+    background-color: #39559f
+}
+
+.create-form .facebook-button:hover {
+    background-color: #39559f
+}
+
+.create-form .facebook:focus {
+    color: #fff;
+    background-color: #4285f4;
+    border-color: #4285f4;
+    box-shadow: none
+}
+
+.create-form .google-button {
+    background-color: #4285f4
+}
+
+.create-form .google-button:hover {
+    background-color: #4285f4
+}
